@@ -8,6 +8,7 @@ import garbageCanImage from "./garbageCan.png";
 // CS 247
 // 5/10/2024
 // First React App
+// https://www.youtube.com/watch?v=BOzVWqR8r1g => helped me start.
 const App = () => {
   const [tasks, setTasks] = useState([]);
   const [newTask, setNewTask] = useState("");
